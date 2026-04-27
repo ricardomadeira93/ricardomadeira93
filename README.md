@@ -1,30 +1,135 @@
-# 💫 About Me:
-Hello, my name is Ricardo. <br><br>I'm a self taught developer who loves web development.<br>
+<h1 align="center">Ricardo Madeira</h1>
 
+<h3 align="center">Full Stack Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricardo-madeira-8ab393280/](https://www.linkedin.com/in/ricardo-madeira-8ab393280/?skipRedirect=true)) 
+<p align="center">
+  Next.js • React • TypeScript • Python • FastAPI • RAG Systems
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ricardomadeira93&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ricardomadeira93&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomadeira93&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:madeiraaphone@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ricardo&#45;madeira&#45;8ab393280/">LinkedIn</a> •
+  <a href="https://github.com/ricardomadeira93">GitHub</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://stark&#45;snowy.vercel.app/">STARK Live App</a> •
+  <a href="https://draft&#45;pink.vercel.app/">Draft Live App</a>
+</p>
 
-<!--
-**ricardomadeira93/ricardomadeira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I am Ricardo. I build full stack web applications, document assistants, and tools that help people work faster with their own data.
+
+I have 3 years of professional experience working with Next.js, React, Python, FastAPI, REST APIs, TypeScript, and modern frontend architecture.
+
+My background in Digital Media Design helps me build products that look good, feel clear, and work reliably.
+
+Right now my focus is on private document assistants, retrieval systems, local model workflows, and web apps that solve real business problems.
+
+I am open to remote roles in Full Stack Development, Web Development, and AI product work.
+
+## Selected Work
+
+### STARK
+
+Private document assistant for files, meetings, audio, and notes.
+
+Live app: <a href="https://stark&#45;snowy.vercel.app/">Open STARK</a>
+
+Repository: <a href="https://github.com/ricardomadeira93/Stark">github.com/ricardomadeira93/Stark</a>
+
+What it shows:
+
+1. Built a document assistant with Python, FastAPI, Next.js, and TypeScript.
+2. Created a retrieval workflow for searching uploaded documents and returning source based answers.
+3. Added support for document ingestion, audio transcription, OCR, persistent memory, and multiple file formats.
+4. Designed the product for privacy, low operating cost, and daily use.
+
+Stack: Next.js, React, TypeScript, Python, FastAPI, Pinecone, ChromaDB, SQLite, Ollama, LiteLLM, Groq, Whisper
+
+### Draft
+
+Questionnaire assistant for RFPs, security reviews, and repetitive business questions.
+
+Live app: <a href="https://draft&#45;pink.vercel.app/">Open Draft</a>
+
+Repository: <a href="https://github.com/ricardomadeira93/Draft">github.com/ricardomadeira93/Draft</a>
+
+What it shows:
+
+1. Built a workflow for uploading a knowledge base and generating grounded answers.
+2. Processed questionnaire files and returned answers with source context.
+3. Connected a FastAPI backend with a Next.js frontend.
+4. Used vector search and language models to reduce repetitive manual work.
+
+Stack: Next.js, React, TypeScript, FastAPI, Python, Pinecone, LangChain, Groq, Ollama
+
+## Tech I Use
+
+**Frontend**
+
+React, Next.js, TypeScript, JavaScript, Vue.js, Astro, Tailwind CSS, Bootstrap, HTML, CSS
+
+**Backend**
+
+Python, FastAPI, Node.js, Express.js, REST APIs, C#, Java
+
+**AI and Data**
+
+LLMs, RAG, LangChain, Ollama, LiteLLM, Pinecone, ChromaDB, vector search, BM25, OCR, Whisper
+
+**Tools**
+
+Git, Jest, Figma, Vercel, Supabase, Firebase, PostgreSQL, MongoDB, SQLite
+
+## Experience
+
+**Full Stack Engineer**
+
+Building production web applications with Next.js, React, Python, REST APIs, and AI features.
+
+**Freelance Fullstack Developer**
+
+Delivered commercial websites and landing pages for clients in healthcare, finance, and hospitality.
+
+Focused on performance, SEO, responsive interfaces, and conversion focused design.
+
+**Frontend Developer**
+
+Built production frontend systems, event platforms, chatbot interfaces, reusable UI components, and tested applications with Jest.
+
+**Digital Media Design Background**
+
+Studied frontend fundamentals and design tools including HTML, CSS, JavaScript, Bootstrap, Figma, Photoshop, and Illustrator.
+
+## What I Care About
+
+Clean interfaces.
+
+Fast websites.
+
+Useful AI features.
+
+Strong retrieval quality.
+
+Code that is easy to maintain.
+
+Products that make sense to real users.
+
+## GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github&#45;readme&#45;stats.vercel.app/api?username=ricardomadeira93&theme=vue&#45;dark&hide_border=true&show_icons=true&include_all_commits=true" alt="Ricardo Madeira GitHub stats" />
+  <img height="160" src="https://github&#45;readme&#45;stats.vercel.app/api/top&#45;langs/?username=ricardomadeira93&theme=vue&#45;dark&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+## Contact
+
+Email: <a href="mailto:madeiraaphone@gmail.com">madeiraaphone@gmail.com</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/ricardo&#45;madeira&#45;8ab393280/">Ricardo Madeira</a>
+
+GitHub: <a href="https://github.com/ricardomadeira93">github.com/ricardomadeira93</a>

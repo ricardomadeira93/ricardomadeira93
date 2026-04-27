@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-madeira-8ab393280/">Portfolio</a> •
   <a href="mailto:madeiraaphone@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ricardo&#45;madeira&#45;8ab393280/">LinkedIn</a> •
   <a href="https://github.com/ricardomadeira93">GitHub</a>

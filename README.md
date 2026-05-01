@@ -30,8 +30,6 @@ My background in Digital Media Design helps me build products that look good, fe
 
 Right now my focus is on private document assistants, retrieval systems, local model workflows, and web apps that solve real business problems.
 
-I am open to remote roles in Full Stack Development, Web Development, and AI product work.
-
 ## Selected Work
 
 ### STARK

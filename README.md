@@ -24,7 +24,7 @@
 
 Hi, I am Ricardo. I build full stack web applications, document assistants, and tools that help people work faster with their own data.
 
-I have 3 years of professional experience working with Next.js, React, Python, FastAPI, REST APIs, TypeScript, and modern frontend architecture.
+I have 4 years of professional experience working with Next.js, React, Python, FastAPI, REST APIs, TypeScript, and modern frontend architecture.
 
 My background in Digital Media Design helps me build products that look good, feel clear, and work reliably.
 
